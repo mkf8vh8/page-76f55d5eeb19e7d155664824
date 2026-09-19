@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b0a50809ecf2a36fd796a29e",
+  "owner": "mkf8vh8",
+  "repo": "page-76f55d5eeb19e7d155664824",
+  "title": "麦当当",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "76f55d5eeb19e7d155664824",
+      "a": "麦当当",
+      "b": "clash verge官网中文",
+      "entity": "麦当当",
+      "brand": "麦当当",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c9f90aadf75cc473f4b99f420a8b8c4d344c0375ef549ef73a31e93f3089cc27",
+      "content": {
+        "primary_entity": "麦当当",
+        "keyword1": "麦当当",
+        "keyword2": "clash verge官网中文",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_DESCRIPTION": "，麦当当提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB、1000GB 流量，可满足单人、多设备与团队使用场景。基础版支持 3 台设备同时在线，旗舰版支持 5 台并配备 IPLC 专线游戏加速优化，团队版支持 20 台设备与 VIP 专属高带宽节点。按年付可享更优惠价格，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路类型三个角度，帮助判断适合自己的套餐档位。",
+          "AI_FEATURES_TITLE": "套餐怎么挑",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选择档位。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，按日常用量匹配，避免超量或浪费。",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅，三步完成接入。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "麦当当提供基础版、旗舰版与团队版三档加速套餐，覆盖个人、多设备及团队场景，按设备数量与月流量需求即可找到合适档位。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付价格更优惠",
+          "AI_HIGHLIGHT_3": "支持多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比一览",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，查看该设备类型对应的适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅配置，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "麦当当多档套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。按需要同时在线的设备数量选择即可。",
+          "AI_FAQ_ANSWER_2": "套餐按周期提供固定流量：基础版 100GB、旗舰版 300GB、团队版 1000GB。超出后的处理方式请以账号内提示为准。",
+          "AI_FAQ_ANSWER_3": "订阅链接一般通过客户端从购买后提供的入口导入，具体步骤参见对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算：基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，分别相当于月付的约 10 个月价格。",
+          "AI_FAQ_ANSWER_5": "可以在账号内更换套餐，补差价后立即生效。具体操作可联系支持渠道确认。",
+          "AI_FAQ_INTRO": "订阅、设备、套餐与付费周期。",
+          "AI_FAQ_QUESTION_1": "同时可以在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "套餐流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐可以随时更换吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a7209aab6d44a9ce1e322ce13e3547986c32c8e2e7e21d450da35ebae97b889b",
+    "sitemap.xml": "cfb1cf70d915484b6d55d71242d26eef4feb0b6f1d7926ce5fc6a5ef464d45ba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "4238a46da71b9bd88eb4310a051b7db243a2801f21c18771c53140e660246104"
+}
